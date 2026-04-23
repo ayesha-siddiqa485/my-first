@@ -1,2 +1,2 @@
 # my-first
-this is my first re[
+this is my first repository
